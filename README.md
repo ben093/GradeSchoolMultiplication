@@ -1,5 +1,5 @@
-# GradeSchoolMultiplication
-5928 Grade School Multiplication
+# Grade School Multiplication
+_5928 Grade School Multiplication_
 An educational software company, All Computer Math (ACM), has a section on multiplication of
 integers. They want to display the calculations in the traditional grade school format, like the following
 computation of 432 × 5678:
@@ -43,24 +43,24 @@ as
 -----
 17220
 ```
-##Input
+## Input
 The input contains one or more data sets. Each data set consists of two positive integers on a line,
 designating the operands in the desired order. Neither number will have more than 6 digits, and neither
 will have leading zeros. After the last data set is a line containing only ‘0 0’.
 ACM-ICPC Live Archive: 5928 – Grade School Multiplication 2/2
-##Output
+## Output
 For each data set, output a label line containing ”Problem ” with the number of the problem, followed
 by the complete multiplication problem in accordance with the format rules described above.
 Warning: A standard int type cannot properly handle 12-digit numbers. You should use a 64-bit type
 (i.e., a long in Java, or a long long in C++).
-##Sample Input
+## Sample Input
 ```
 432 5678
 200001 90040
 246 70
 0 0
 ```
-##Sample Output
+## Sample Output
 ```
 Problem 1
     432
