@@ -1,1 +1,1 @@
-"# GradeSchoolMultiplication" 
+# GradeSchoolMultiplication
